@@ -1,0 +1,76 @@
+.logo {
+    margin-top: 8%;
+    margin-bottom: 8%;
+    width: 89%;
+}
+.small-margin {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.full {
+    max-width: 100%;
+}
+body {
+    background: #f2f2ff;
+}
+.centered {
+    text-align: center;
+    color: #535353;
+}
+.flexcontainer {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.media {
+    min-width: 0;
+    margin: 30px;
+}
+.social {
+    width: 34px;
+    max-width: 100%;
+    max-height: 55px;
+}
+.shop {
+    text-align: center;
+    font-size: 24px;
+    background: #9966CD;
+    border-radius: 9px;
+    border-width: 3px;
+    padding: 3px;
+    padding-left: 28px;
+    padding-right: 28px;
+    font-size: 32px;
+
+}
+a:link {
+    text-decoration: none;
+}
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+a.colo {
+    font-weight: 100;
+    color: #3f3f3f;
+}

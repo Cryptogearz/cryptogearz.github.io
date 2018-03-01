@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="5620 2340 18557 6000">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_3);
+      }
+
+      .cls-2 {
+        fill: #fabd3a;
+        stroke: #392a08;
+        stroke-width: 169px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #2f2206;
+      }
+
+      .cls-3 {
+        font-size: 1904px;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        font-family: Maax-Bold, Maax;
+        font-weight: 700;
+        letter-spacing: 0.034em;
+      }
+
+      .cls-4 {
+        font-size: 1903px;
+      }
+
+      .cls-5, .cls-8 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: #150f01;
+        font-size: 1546px;
+      }
+
+      .cls-7, .cls-9 {
+        stroke: none;
+      }
+
+      .cls-9 {
+        fill: #fcd98b;
+      }
+
+      .cls-10 {
+        filter: url(#Z);
+      }
+
+      .cls-11 {
+        filter: url(#C);
+      }
+    </style>
+    <filter id="C" x="7126.458" y="4524.35" width="1395" height="1935.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-color="#f5d69a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Z" x="8784.282" y="4524.35" width="1250" height="1934.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-color="#f5d69a"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_3">
+      <rect x="5620" y="2340" width="18557" height="6000"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_3" data-name="Artboard – 3" class="cls-1">
+    <g id="Group_5" data-name="Group 5" transform="translate(6058 2778)">
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-2" transform="translate(62 62)">
+        <circle class="cls-7" cx="2500" cy="2500" r="2500"/>
+        <circle class="cls-8" cx="2500" cy="2500" r="2415.5"/>
+      </g>
+      <g class="cls-11" transform="matrix(1, 0, 0, 1, -6058, -2778)">
+        <text id="C-2" data-name="C" class="cls-3" transform="translate(7127.96 6002.35)"><tspan x="0" y="0">C</tspan></text>
+      </g>
+      <g class="cls-10" transform="matrix(1, 0, 0, 1, -6058, -2778)">
+        <text id="Z-2" data-name="Z" class="cls-4" transform="translate(8785.78 6001.35)"><tspan x="0" y="0">Z</tspan></text>
+      </g>
+      <g id="Path_2" data-name="Path 2" class="cls-5" transform="translate(207.889 207.889)">
+        <path class="cls-7" d="M2347.48,0C3643.957,0,4694.96,1051,4694.96,2347.48s-1051,2347.48-2347.48,2347.48S0,3643.957,0,2347.48,1051,0,2347.48,0Z"/>
+        <path class="cls-9" d="M 2347.47998046875 4594.9599609375 C 3586.74462890625 4594.9599609375 4594.9599609375 3586.74462890625 4594.9599609375 2347.47998046875 C 4594.9599609375 1108.21533203125 3586.74462890625 99.99997711181641 2347.47998046875 99.99997711181641 C 1108.21533203125 99.99997711181641 99.99997711181641 1108.21533203125 99.99997711181641 2347.47998046875 C 99.99997711181641 3586.74462890625 1108.21533203125 4594.9599609375 2347.47998046875 4594.9599609375 M 2347.47998046875 4694.9599609375 C 1051.002685546875 4694.9599609375 -1.953124956344254e-05 3643.957275390625 -1.953124956344254e-05 2347.47998046875 C -1.953124956344254e-05 1051.002685546875 1051.002685546875 -1.953124956344254e-05 2347.47998046875 -1.953124956344254e-05 C 3643.957275390625 -1.953124956344254e-05 4694.9599609375 1051.002685546875 4694.9599609375 2347.47998046875 C 4694.9599609375 3643.957275390625 3643.957275390625 4694.9599609375 2347.47998046875 4694.9599609375 Z"/>
+      </g>
+    </g>
+    <text id="CRYPTOGEARZ" class="cls-6" transform="translate(11667 5767)"><tspan x="0" y="0">CRYPTOGEARZ</tspan></text>
+  </g>
+</svg>
