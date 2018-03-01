@@ -47,6 +47,26 @@
   "url": "{{ url }}"
 }
  </script>
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "{{ url }}",
+  "logo": "http://cryptogearz.ca/images/LogoLarge.png"
+}
+ </script>
+ <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "{{ author }}",
+  "url": "{{ url }}",
+  "sameAs": [
+    "{{ social.instagram }}",
+    "{{ social.twitter }}",
+  ]
+}
+</script>
 
   </head>
   <body>
