@@ -12,7 +12,7 @@ def getYear():
 page_vars = {
     "title" : "CRYPTOGEARZ | High-Quality Cryptocurrency clothing, accessories, and gear!",
     "author" : "CRYPTOGEARZ",
-    "description": "We sell high-quality cryptocurrency related gear, clothing, and gear!",
+    "description": "We sell high-quality cryptocurrency related gear, clothing, and gear! We have Bitcoin, Litecoin, Ethereum, and all of your favourite altcoin and crypto assets!",
     "keywords": "bitcoin,cryptogears,cryptogearz,ethereum,litecoin,ripple,iota,neo,cryptocurrency,clothing,gear",
     "social" : {
         "twitter" : "https://twitter.com/cryptogearz_",
@@ -22,6 +22,7 @@ page_vars = {
     },
     "shop": "https://inktale.com/a/cryptogearz",
     "year" : getYear(),
+    "url" : "http://cryptogearz.ca"
 }
 
 # Index
