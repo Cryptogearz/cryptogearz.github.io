@@ -38,15 +38,10 @@ body {
 }
 .shop {
     text-align: center;
-    font-size: 24px;
+}
+.button.button-primary, button.button-primary, input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
     background: #9966CD;
-    border-radius: 9px;
-    border-width: 3px;
-    padding: 3px;
-    padding-left: 28px;
-    padding-right: 28px;
-    font-size: 24px;
-
+    color: white
 }
 a:link {
     text-decoration: none;
