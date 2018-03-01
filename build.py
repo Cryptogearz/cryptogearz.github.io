@@ -24,7 +24,12 @@ page_vars = {
     "year" : getYear(),
 }
 
-template = env.get_template('index.html')
-
+# Index
+index = env.get_template('index.html')
 with open("index.html", "w") as f:
-    f.write(template.render(page_vars))
+    f.write(index.render(page_vars))
+
+# Colophone
+colophon = env.get_template('colophon.html')
+with open("colophon.html", "w") as f:
+    f.write(colophon.render(page_vars))
